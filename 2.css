@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+ 
+.container {
+    background-color: bisque;
+    display: flex;
+}
+
+.box {
+    width: 50%;
+    height: 800px; 
+    background-color: rgb(207, 213, 172);
+
+}
+
+
+#color {
+    margin-bottom: 20px;
+}
+
+
+ .content textarea  {
+    width: 80px;
+    height: 200px;
+    padding: 30px;
+    margin: 90px;
+    border: 3px solid;
+    border-radius: 12px;
+    box-shadow: 2px 3px 10px 1px red;
+
+ }
+.but button {
+    padding: 10px 25px 10px 25px;
+    color: white;
+    background-color: rgb(47, 20, 220);
+    font-weight: 200px;
+    font-size: 23px;
+    border-radius: 40px;
+    margin:10px  100px;
+
+}
+
+#note {
+    padding: 20px;
+    margin-top: 70px;
+    font-size: large;
+   font-style: italic;
+}
